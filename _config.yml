@@ -2,4 +2,6 @@
 
 title: HwameiStor
 
+feed_show_tags: false
+
 theme: jekyll-theme-slate
