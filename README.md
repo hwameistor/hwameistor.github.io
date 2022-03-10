@@ -1,5 +1,3 @@
-# HwameiStor
-
 ## Introduction
 
 Local Storage is one of modules of HwameiStor which is a cloud native local storage system. it aims to provision high performance persistent LVM volume with local access to applications.
