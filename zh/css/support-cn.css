@@ -1,0 +1,361 @@
+/* screen - support-cn */
+
+.support-cn {
+  background-color: var(--white);
+  height: 1234px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.support-cn .navigation-UI5e5p {
+  background-color: transparent;
+  height: 72px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.support-cn .bg-1gaKh3 {
+  background-color: var(--white);
+  height: 72px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.support-cn .navigation-1gaKh3 {
+  background-color: transparent;
+  height: 38px;
+  left: 972px;
+  position: absolute;
+  top: 18px;
+  width: 396px;
+}
+
+.support-cn .text_label-xsLxwI {
+  background-color: transparent;
+  height: 26px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  width: auto;
+}
+.support-cn .text_label-xsLxwI:hover {
+  color: dimgray;
+  text-decoration: underline;
+  text-decoration-thickness: 1.5px;
+  text-decoration-color: dimgrey;
+}
+
+.support-cn .text_label-NixxYf {
+  background-color: transparent;
+  height: 26px;
+  left: 76px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  width: auto;
+}
+
+.support-cn .text_label-NixxYf:hover {
+  color: dimgray;
+  text-decoration: underline;
+  text-decoration-thickness: 1.5px;
+  text-decoration-color: dimgrey;
+}
+
+.support-cn .text_label-pzJqZD {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-noto_sans_sc);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 900;
+  height: 26px;
+  left: 152px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  width: auto;
+}
+
+.support-cn .text_label-pzJqZD:hover {
+  color: dimgray;
+  text-decoration: underline;
+  text-decoration-thickness: 1.5px;
+  text-decoration-color: dimgrey;
+}
+
+.support-cn .text_label-nxsdjB {
+  background-color: transparent;
+  height: 26px;
+  left: 228px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  width: auto;
+}
+
+.support-cn .text_label-nxsdjB:hover {
+  color: dimgray;
+  text-decoration: underline;
+  text-decoration-thickness: 1.5px;
+  text-decoration-color: dimgrey;
+}
+
+.support-cn .language-xsLxwI {
+  background-color: transparent;
+  height: 38px;
+  left: 296px;
+  position: absolute;
+  top: 0px;
+  width: 94px;
+}
+
+.support-cn .border-fl5Rya {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 92px;
+}
+
+.support-cn .english-fl5Rya {
+  background-color: transparent;
+  height: auto;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: auto;
+}
+
+.support-cn .english-fl5Rya:hover {
+  color: dimgray;
+}
+
+
+.support-cn .logo-1gaKh3 {
+  background-color: transparent;
+  height: 48px;
+  left: 28px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 230px;
+}
+
+.support-cn .footer-UI5e5p {
+  background-color: transparent;
+  height: 74px;
+  left: 0px;
+  position: absolute;
+  top: 1160px;
+  width: 1442px;
+}
+
+.support-cn .bg-VdVr6C {
+  background-color: var(--white);
+  box-shadow: 0px -1px 0px #1b1c1d1a;
+  height: 72px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 1440px;
+}
+
+.support-cn .logo-VdVr6C {
+  background-color: transparent;
+  height: 74px;
+  left: 1184px;
+  position: absolute;
+  top: 0px;
+  width: 234px;
+}
+
+.support-cn .image-7-CdVVCc {
+  background-color: transparent;
+  height: 44px;
+  left: 92px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 136px;
+}
+
+.support-cn .text_label-CdVVCc {
+  background-color: transparent;
+  height: auto;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 30px;
+  width: auto;
+}
+
+.support-cn .x2022-VdVr6C {
+  background-color: transparent;
+  height: auto;
+  left: 32px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 30px;
+  width: auto;
+}
+
+.support-cn .x1-UI5e5p {
+  background-color: transparent;
+  height: 400px;
+  left: 120px;
+  position: absolute;
+  top: 200px;
+  width: 1206px;
+}
+
+.support-cn .bg-Zxd5J2 {
+  background-color: var(--cultured-pearl);
+  height: 400px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1200px;
+}
+
+.support-cn .image-8-Zxd5J2 {
+  background-color: transparent;
+  height: 264px;
+  left: 874px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 62px;
+  width: 274px;
+}
+
+.support-cn .text_label-Zxd5J2 {
+  background-color: transparent;
+  height: auto;
+  left: 934px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 337px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.support-cn .text_label-XCgzrG {
+  background-color: transparent;
+  height: auto;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 126px;
+  width: auto;
+}
+
+.support-cn .github-httpsgithubcomhwameistor-Zxd5J2 {
+  background-color: transparent;
+  height: auto;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 200px;
+  white-space: nowrap;
+  width: 427px;
+}
+
+.support-cn .x2-UI5e5p {
+  background-color: transparent;
+  height: 400px;
+  left: 120px;
+  position: absolute;
+  top: 640px;
+  width: 1204px;
+}
+
+.support-cn .bg-BCTPZx {
+  background-color: var(--cultured-pearl);
+  height: 400px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1200px;
+}
+
+.support-cn .text_label-BCTPZx {
+  background-color: transparent;
+  height: auto;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 126px;
+  width: auto;
+}
+
+.support-cn .x86-400-002-6898-infodaocloudio-BCTPZx {
+  background-color: transparent;
+  height: auto;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 200px;
+  width: 427px;
+}
+
+.support-cn .bird-BCTPZx {
+  background-color: transparent;
+  height: 242px;
+  left: 910px;
+  position: absolute;
+  top: 78px;
+  width: 228px;
+}

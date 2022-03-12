@@ -24,8 +24,6 @@
   --font-size-xxxxxl: 64px;
  
   --font-family-noto_sans_sc: "Noto Sans SC", Helvetica;
-  --font-family-noto_sans_sc-black: "Noto Sans SC-Black", Helvetica;
-  --font-family-noto_sans_sc-bold: "Noto Sans SC-Bold", Helvetica;
   --font-family-roboto: "Roboto", Helvetica;
 }
 .roboto-normal-black-12px {
@@ -76,20 +74,20 @@
   font-weight: 400;
 }
 
-.roboto-black-eerie-black-40px {
-  color: var(--eerie-black);
-  font-family: var(--font-family-roboto);
-  font-size: var(--font-size-xxxxl);
-  font-style: normal;
-  font-weight: 900;
-}
-
 .notosanssc-normal-black-14px {
   color: var(--black);
   font-family: var(--font-family-noto_sans_sc);
   font-size: var(--font-size-l);
   font-style: normal;
   font-weight: 400;
+}
+
+.roboto-black-eerie-black-40px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 900;
 }
 
 .notosanssc-normal-black-18px {
@@ -100,6 +98,14 @@
   font-weight: 400;
 }
 
+.notosanssc-bold-black-14px {
+  color: var(--black);
+  font-family: var(--font-family-noto_sans_sc);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
 .roboto-normal-eerie-black-16px {
   color: var(--eerie-black);
   font-family: var(--font-family-roboto);
@@ -108,17 +114,9 @@
   font-weight: 400;
 }
 
-.notosanssc-bold-black-14px {
-  color: var(--black);
-  font-family: var(--font-family-noto_sans_sc-bold);
-  font-size: var(--font-size-l);
-  font-style: normal;
-  font-weight: 700;
-}
-
 .notosanssc-black-eerie-black-40px {
   color: var(--eerie-black);
-  font-family: var(--font-family-noto_sans_sc-black);
+  font-family: var(--font-family-noto_sans_sc);
   font-size: var(--font-size-xxxxl);
   font-style: normal;
   font-weight: 900;

@@ -31,12 +31,48 @@
 
 .homepage-en .navigation-DTQxEQ {
   background-color: transparent;
-  height: 21px;
-  left: 988px;
+  height: 38px;
+  left: 864px;
   position: absolute;
-  top: 26px;
-  width: 420px;
+  top: 18px;
+  width: 544px;
 }
+
+.homepage-en .language-v03XRP {
+  background-color: transparent;
+  height: 38px;
+  left: 444px;
+  position: absolute;
+  top: 0px;
+  width: 94px;
+}
+
+.homepage-en .border-NS27g6 {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 92px;
+}
+
+.homepage-en .text_label-NS27g6 {
+  background-color: transparent;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: auto;
+}
+
+.homepage-en .text_label-NS27g6:hover {
+  color: dimgray;
+}
+
 
 .homepage-en .documentation-v03XRP {
   background-color: transparent;
@@ -47,9 +83,17 @@
   mix-blend-mode: normal;
   position: absolute;
   text-align: left;
-  top: 0px;
+  top: 8px;
   width: auto;
 }
+
+.homepage-en .documentation-v03XRP:hover {
+  color: dimgray;
+  text-decoration: underline;
+  text-decoration-thickness: 1.5px;
+  text-decoration-color: dimgrey;
+}
+
 
 .homepage-en .community-v03XRP {
   background-color: transparent;
@@ -60,8 +104,15 @@
   mix-blend-mode: normal;
   position: absolute;
   text-align: left;
-  top: 0px;
+  top: 8px;
   width: auto;
+}
+
+.homepage-en .community-v03XRP:hover {
+  color: dimgray;
+  text-decoration: underline;
+  text-decoration-thickness: 1.5px;
+  text-decoration-color: dimgrey;
 }
 
 .homepage-en .support-v03XRP {
@@ -73,8 +124,15 @@
   mix-blend-mode: normal;
   position: absolute;
   text-align: left;
-  top: 0px;
+  top: 8px;
   width: auto;
+}
+
+.homepage-en .support-v03XRP:hover {
+  color: dimgray;
+  text-decoration: underline;
+  text-decoration-thickness: 1.5px;
+  text-decoration-color: dimgrey;
 }
 
 .homepage-en .blog-v03XRP {
@@ -86,8 +144,15 @@
   mix-blend-mode: normal;
   position: absolute;
   text-align: left;
-  top: 0px;
+  top: 8px;
   width: auto;
+}
+
+.homepage-en .blog-v03XRP:hover {
+  color: dimgray;
+  text-decoration: underline;
+  text-decoration-thickness: 1.5px;
+  text-decoration-color: dimgrey;
 }
 
 .homepage-en .logo-DTQxEQ {
@@ -112,11 +177,6 @@
 
 .homepage-en .hwamei-stor-4agrxM {
   background-color: transparent;
-  color: transparent;
-  font-family: var(--font-family-roboto);
-  font-size: var(--font-size-xxxl);
-  font-style: normal;
-  font-weight: 900;
   height: auto;
   left: 308px;
   letter-spacing: 0.00px;
@@ -128,20 +188,16 @@
 }
 
 .homepage-en .span0-zWDKHh {
-  color: var(--eerie-black);
-  font-style: normal;
 }
 
 .homepage-en .span1-zWDKHh {
-  color: var(--emerald);
-  font-style: normal;
 }
 
 .homepage-en .agile-local-storage-4agrxM {
   background-color: transparent;
   color: var(--eerie-black);
   font-family: var(--font-family-roboto);
-  font-size: var(--font-size-xl);
+  font-size: var(--font-size-xxxl);
   font-style: normal;
   font-weight: 400;
   height: auto;
@@ -231,16 +287,6 @@
   position: absolute;
   top: 55px;
   width: 86px;
-}
-
-.homepage-en .vector-4agrxM {
-  background-color: transparent;
-  height: 5px;
-  left: 651px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 74px;
-  width: 5px;
 }
 
 .homepage-en .underline-4agrxM {
@@ -2146,7 +2192,6 @@
 
 .homepage-en .rectangle-17-VASkRx {
   background-color: var(--white);
-  border: 1px solid #ff3860;
   height: 48px;
   left: 0px;
   mix-blend-mode: normal;
@@ -2890,7 +2935,6 @@
 
 .homepage-en .rectangle-17-r53l9x {
   background-color: var(--white);
-  border: 1px solid var(--torch-red);
   height: 48px;
   left: 0px;
   mix-blend-mode: normal;
@@ -3099,7 +3143,6 @@
 
 .homepage-en .rectangle-17-uoSuTQ {
   background-color: var(--white);
-  border: 1px solid var(--lightning-yellow);
   height: 48px;
   left: 0px;
   mix-blend-mode: normal;
@@ -3458,11 +3501,6 @@
 
 .homepage-en .developed-by-JklyxD {
   background-color: transparent;
-  color: var(--black);
-  font-family: var(--font-family-roboto);
-  font-size: var(--font-size-s);
-  font-style: normal;
-  font-weight: 700;
   height: auto;
   left: 7px;
   letter-spacing: 0.00px;
