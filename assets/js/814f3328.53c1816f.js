@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"HwameiStor Comes Online","permalink":"/blog/long-blog-post"},{"title":"Welcome","permalink":"/blog/welcome"}]}')}}]);
