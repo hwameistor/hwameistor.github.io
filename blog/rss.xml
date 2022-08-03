@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>HwameiStor Blog</title>
-        <link>https://hwameistor.io /blog</link>
+        <link>https://hwameistor.io/blog</link>
         <description>HwameiStor Blog</description>
         <lastBuildDate>Fri, 16 Jul 2202 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,14 +10,14 @@
         <language>en</language>
         <item>
             <title><![CDATA[HwameiStor Supports Minio]]></title>
-            <link>https://hwameistor.io /blog/minio</link>
+            <link>https://hwameistor.io/blog/minio</link>
             <guid>minio</guid>
             <pubDate>Fri, 16 Jul 2202 00:00:00 GMT</pubDate>
             <category>Test</category>
         </item>
         <item>
             <title><![CDATA[Livestream Highlights: Cloud Native Storage]]></title>
-            <link>https://hwameistor.io /blog/live</link>
+            <link>https://hwameistor.io/blog/live</link>
             <guid>live</guid>
             <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Livestream Highlights]]></description>
@@ -26,7 +26,7 @@
         </item>
         <item>
             <title><![CDATA[HwameiStor Capability, Security, Operation, and Maintenance Test]]></title>
-            <link>https://hwameistor.io /blog/test</link>
+            <link>https://hwameistor.io/blog/test</link>
             <guid>test</guid>
             <pubDate>Mon, 06 Jun 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[This test environment is Kubernetes 1.22. We deployed TiDB 1.3 after the HwameiStor local storage is attached. Then, we performed the basic SQL capability test, system security test, and operation and maintenance management test.]]></description>
@@ -35,7 +35,7 @@
         </item>
         <item>
             <title><![CDATA[LV and LVReplica]]></title>
-            <link>https://hwameistor.io /blog/3</link>
+            <link>https://hwameistor.io/blog/3</link>
             <guid>3</guid>
             <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[In Kubernetes, when a PVC is created and uses HwameiStor as its local storage, HwameiStor will create two kinds of CR: LocalVolume and LocalVolumeReplica. Why create these two resources for one PV? Continue to read and you will find the answer.]]></description>
@@ -45,7 +45,7 @@
         </item>
         <item>
             <title><![CDATA[Reliable Helper System for HwameiStor Is Online]]></title>
-            <link>https://hwameistor.io /blog/2</link>
+            <link>https://hwameistor.io/blog/2</link>
             <guid>2</guid>
             <pubDate>Thu, 19 May 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[News today: The HwameiStor Reliable Helper System, an automatic and reliable cloud-native local storage maintenance system dedicated to system operation and maintenance, has been launched.]]></description>
@@ -55,7 +55,7 @@
         </item>
         <item>
             <title><![CDATA[HwameiStor Comes Online]]></title>
-            <link>https://hwameistor.io /blog/1</link>
+            <link>https://hwameistor.io/blog/1</link>
             <guid>1</guid>
             <pubDate>Mon, 25 Apr 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[HwameiStor, an automated, highly available, cloud native, local storage system, is coming online]]></description>
@@ -65,7 +65,7 @@
         </item>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://hwameistor.io /blog/welcome</link>
+            <link>https://hwameistor.io/blog/welcome</link>
             <guid>welcome</guid>
             <pubDate>Fri, 22 Apr 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Welcome to the Hwameistor blog space.]]></description>

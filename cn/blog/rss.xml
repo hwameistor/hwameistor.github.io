@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>HwameiStor Blog</title>
-        <link>https://hwameistor.io /cn/blog</link>
+        <link>https://hwameistor.io/cn/blog</link>
         <description>HwameiStor Blog</description>
         <lastBuildDate>Fri, 16 Jul 2202 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,7 +10,7 @@
         <language>cn</language>
         <item>
             <title><![CDATA[HwameiStor 对 Minio 的支持]]></title>
-            <link>https://hwameistor.io /cn/blog/minio</link>
+            <link>https://hwameistor.io/cn/blog/minio</link>
             <guid>minio</guid>
             <pubDate>Fri, 16 Jul 2202 00:00:00 GMT</pubDate>
             <description><![CDATA[1. MinIO简介]]></description>
@@ -19,7 +19,7 @@
         </item>
         <item>
             <title><![CDATA[直播回顾论道原生：云原生存储]]></title>
-            <link>https://hwameistor.io /cn/blog/live</link>
+            <link>https://hwameistor.io/cn/blog/live</link>
             <guid>live</guid>
             <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[直播回顾]]></description>
@@ -31,7 +31,7 @@ MinIO、Ceph 等存储软件，需要使用 K8s 节点上的磁盘，可以采�
         </item>
         <item>
             <title><![CDATA[HwameiStor 能力、安全及运维测试]]></title>
-            <link>https://hwameistor.io /cn/blog/test</link>
+            <link>https://hwameistor.io/cn/blog/test</link>
             <guid>test</guid>
             <pubDate>Mon, 06 Jun 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[本次测试环境为 Kubernetes 1.22，对接 HwameiStor 本地存储后，成功部署 TiDB 1.3，随后执行数据库 SQL 基本能力测试、系统安全测试及运维管理测试。]]></description>
@@ -40,7 +40,7 @@ MinIO、Ceph 等存储软件，需要使用 K8s 节点上的磁盘，可以采�
         </item>
         <item>
             <title><![CDATA[LV 和 LVReplica]]></title>
-            <link>https://hwameistor.io /cn/blog/3</link>
+            <link>https://hwameistor.io/cn/blog/3</link>
             <guid>3</guid>
             <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[在 Kubernetes 中，当用户创建一个 PVC，并指定使用 HwameiStor 作为底层存储时，HwameiStor 会创建两类 CR，即本文的主角LocalVolume 和 LocalVolumeReplica。HwameiStor 为什么为一个 PV 创建这两类资源呢？本文将为您揭开谜团。]]></description>
@@ -50,7 +50,7 @@ MinIO、Ceph 等存储软件，需要使用 K8s 节点上的磁盘，可以采�
         </item>
         <item>
             <title><![CDATA[HwameiStor Reliable Helper System 开源上线]]></title>
-            <link>https://hwameistor.io /cn/blog/2</link>
+            <link>https://hwameistor.io/cn/blog/2</link>
             <guid>2</guid>
             <pubDate>Thu, 19 May 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[今日播报：]]></description>
@@ -61,7 +61,7 @@ MinIO、Ceph 等存储软件，需要使用 K8s 节点上的磁盘，可以采�
         </item>
         <item>
             <title><![CDATA[自动化、高可用云原生本地存储系统 —— HwameiStor 开源上线]]></title>
-            <link>https://hwameistor.io /cn/blog/1</link>
+            <link>https://hwameistor.io/cn/blog/1</link>
             <guid>1</guid>
             <pubDate>Mon, 25 Apr 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[HwameiStor]]></description>
@@ -72,7 +72,7 @@ MinIO、Ceph 等存储软件，需要使用 K8s 节点上的磁盘，可以采�
         </item>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://hwameistor.io /cn/blog/welcome</link>
+            <link>https://hwameistor.io/cn/blog/welcome</link>
             <guid>welcome</guid>
             <pubDate>Fri, 22 Apr 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Welcome to the Hwameistor blog space.]]></description>
