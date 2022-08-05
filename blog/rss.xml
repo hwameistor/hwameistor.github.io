@@ -4,7 +4,7 @@
         <title>HwameiStor Blog</title>
         <link>https://hwameistor.io/blog</link>
         <description>HwameiStor Blog</description>
-        <lastBuildDate>Fri, 16 Jul 2202 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[HwameiStor Supports Minio]]></title>
             <link>https://hwameistor.io/blog/minio</link>
             <guid>minio</guid>
-            <pubDate>Fri, 16 Jul 2202 00:00:00 GMT</pubDate>
+            <pubDate>Sat, 16 Jul 2022 00:00:00 GMT</pubDate>
             <category>Test</category>
         </item>
         <item>
